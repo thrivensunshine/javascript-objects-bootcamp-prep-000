@@ -1,5 +1,5 @@
 var playslist = {
-  sublime: "santeria"
+  artist: "song"
 }
 
 
