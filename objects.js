@@ -1,5 +1,5 @@
 var playslist = {
-  artist: "song"
+  artistName: "songTitle"
 }
 
 
